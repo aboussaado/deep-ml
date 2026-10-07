@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-18T14:04:03.848Z",
+  "generated_at": "2026-10-18T14:04:05.914Z",
   "items": {
     "problem:10": {
       "kind": "problem",
@@ -455,6 +455,123 @@
       "last_pushed_at": "2026-10-06T21:05:50.215Z",
       "language": "python",
       "lines": 26
+    },
+    "problem:1": {
+      "kind": "problem",
+      "id": "1",
+      "title": "Matrix-Vector Dot Product",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/1",
+      "path": "problems/0001-matrix-vector-dot-product",
+      "first_solved_at": "2026-10-07T20:38:54.665Z",
+      "last_pushed_at": "2026-10-07T20:38:54.665Z",
+      "language": "python",
+      "lines": 14
+    },
+    "problem:2": {
+      "kind": "problem",
+      "id": "2",
+      "title": "Transpose of a Matrix",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/2",
+      "path": "problems/0002-transpose-of-a-matrix",
+      "first_solved_at": "2026-10-07T20:48:50.126Z",
+      "last_pushed_at": "2026-10-07T20:48:50.126Z",
+      "language": "python",
+      "lines": 17
+    },
+    "problem:3": {
+      "kind": "problem",
+      "id": "3",
+      "title": "Reshape Matrix",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/3",
+      "path": "problems/0003-reshape-matrix",
+      "first_solved_at": "2026-10-07T20:56:54.250Z",
+      "last_pushed_at": "2026-10-07T20:56:54.250Z",
+      "language": "python",
+      "lines": 13
+    },
+    "problem:4": {
+      "kind": "problem",
+      "id": "4",
+      "title": "Calculate Mean by Row or Column",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/4",
+      "path": "problems/0004-calculate-mean-by-row-or-column",
+      "first_solved_at": "2026-10-07T21:05:20.415Z",
+      "last_pushed_at": "2026-10-07T21:05:20.415Z",
+      "language": "python",
+      "lines": 22
+    },
+    "problem:5": {
+      "kind": "problem",
+      "id": "5",
+      "title": "Scalar Multiplication of a Matrix",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/5",
+      "path": "problems/0005-scalar-multiplication-of-a-matrix",
+      "first_solved_at": "2026-10-07T21:09:12.568Z",
+      "last_pushed_at": "2026-10-07T21:09:12.568Z",
+      "language": "python",
+      "lines": 3
+    },
+    "problem:8": {
+      "kind": "problem",
+      "id": "8",
+      "title": "Calculate 2x2 Matrix Inverse",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/8",
+      "path": "problems/0008-calculate-2x2-matrix-inverse",
+      "first_solved_at": "2026-10-07T21:16:53.752Z",
+      "last_pushed_at": "2026-10-07T21:16:53.752Z",
+      "language": "python",
+      "lines": 14
+    },
+    "problem:27": {
+      "kind": "problem",
+      "id": "27",
+      "title": "Transformation Matrix from Basis B to C",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/27",
+      "path": "problems/0027-transformation-matrix-from-basis-b-to-c",
+      "first_solved_at": "2026-10-07T21:21:42.852Z",
+      "last_pushed_at": "2026-10-07T21:21:42.852Z",
+      "language": "python",
+      "lines": 3
+    },
+    "problem:35": {
+      "kind": "problem",
+      "id": "35",
+      "title": "Convert Vector to Diagonal Matrix",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/35",
+      "path": "problems/0035-convert-vector-to-diagonal-matrix",
+      "first_solved_at": "2026-10-07T21:25:09.218Z",
+      "last_pushed_at": "2026-10-07T21:25:09.218Z",
+      "language": "python",
+      "lines": 4
+    },
+    "problem:65": {
+      "kind": "problem",
+      "id": "65",
+      "title": "Implement Compressed Row Sparse Matrix (CSR) Format Conversion",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/65",
+      "path": "problems/0065-implement-compressed-row-sparse-matrix-csr-format-conversion",
+      "first_solved_at": "2026-10-07T21:39:47.936Z",
+      "last_pushed_at": "2026-10-07T21:39:47.936Z",
+      "language": "python",
+      "lines": 23
     }
   }
 }
