@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15T18:41:18.765Z",
+  "generated_at": "2026-10-15T18:49:53.214Z",
   "items": {
     "problem:10": {
       "kind": "problem",
@@ -37,6 +37,19 @@
       "path": "problems/1324-immutable-arrays-functional-updates-with-at",
       "first_solved_at": "2026-10-15T18:41:17.000Z",
       "last_pushed_at": "2026-10-15T18:41:17.000Z",
+      "language": "python",
+      "lines": 10
+    },
+    "problem:1325": {
+      "kind": "problem",
+      "id": "1325",
+      "title": "Your First Gradient with jax.grad",
+      "difficulty": "easy",
+      "category": "Jax",
+      "url": "https://www.deep-ml.com/problems/1325",
+      "path": "problems/1325-your-first-gradient-with-jax-grad",
+      "first_solved_at": "2026-10-15T18:49:47.703Z",
+      "last_pushed_at": "2026-10-15T18:49:47.703Z",
       "language": "python",
       "lines": 10
     }
