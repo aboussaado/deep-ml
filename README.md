@@ -2,7 +2,9 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**17** solved · 17 problems · 0 labs · 0 math
+**Completed:** Jax (10/10)
+
+**18** solved · 18 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -29,6 +31,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [PyTrees: One SGD Step with tree_map](https://www.deep-ml.com/problems/1330) | medium | 2026-10-15 | [solution](problems/1330-pytrees-one-sgd-step-with-tree-map) |
 | [Random Numbers the JAX Way: PRNG Keys](https://www.deep-ml.com/problems/1329) | medium | 2026-10-15 | [solution](problems/1329-random-numbers-the-jax-way-prng-keys) |
 | [Vectorizing with jax.vmap](https://www.deep-ml.com/problems/1328) | medium | 2026-10-15 | [solution](problems/1328-vectorizing-with-jax-vmap) |
+| [Per-Sample Gradients with vmap(grad)](https://www.deep-ml.com/problems/1332) | hard | 2026-10-16 | [solution](problems/1332-per-sample-gradients-with-vmap-grad) |
 
 ---
 
