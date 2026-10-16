@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T15:50:12.075Z",
+  "generated_at": "2026-10-16T15:50:23.540Z",
   "items": {
     "problem:10": {
       "kind": "problem",
@@ -231,9 +231,9 @@
       "url": "https://www.deep-ml.com/problems/1332",
       "path": "problems/1332-per-sample-gradients-with-vmap-grad",
       "first_solved_at": "2026-10-16T15:50:10.827Z",
-      "last_pushed_at": "2026-10-16T15:50:10.827Z",
+      "last_pushed_at": "2026-10-16T15:50:22.262Z",
       "language": "python",
-      "lines": 14
+      "lines": 10
     }
   }
 }
