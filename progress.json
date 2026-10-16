@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T13:55:35.507Z",
+  "generated_at": "2026-10-16T14:12:36.628Z",
   "items": {
     "problem:10": {
       "kind": "problem",
@@ -180,6 +180,19 @@
       "path": "problems/0024-single-neuron",
       "first_solved_at": "2026-10-16T13:55:34.391Z",
       "last_pushed_at": "2026-10-16T13:55:34.391Z",
+      "language": "python",
+      "lines": 10
+    },
+    "problem:29": {
+      "kind": "problem",
+      "id": "29",
+      "title": "Random Shuffle of Dataset",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/29",
+      "path": "problems/0029-random-shuffle-of-dataset",
+      "first_solved_at": "2026-10-16T14:12:33.085Z",
+      "last_pushed_at": "2026-10-16T14:12:33.085Z",
       "language": "python",
       "lines": 10
     }
