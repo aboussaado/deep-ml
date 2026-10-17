@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Jax (10/10)
 
-**20** solved · 20 problems · 0 labs · 0 math
+**21** solved · 21 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -18,6 +18,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Calculate Covariance Matrix](https://www.deep-ml.com/problems/10) | easy | 2026-10-14 | [solution](problems/0010-calculate-covariance-matrix) |
 | [Compiling Functions with jax.jit](https://www.deep-ml.com/problems/1327) | easy | 2026-10-15 | [solution](problems/1327-compiling-functions-with-jax-jit) |
 | [Feature Scaling Implementation](https://www.deep-ml.com/problems/16) | easy | 2026-10-15 | [solution](problems/0016-feature-scaling-implementation) |
+| [Filter rows with WHERE](https://www.deep-ml.com/problems/1103) | easy | 2026-10-17 | [solution](problems/1103-filter-rows-with-where) |
 | [Immutable Arrays: Functional Updates with .at](https://www.deep-ml.com/problems/1324) | easy | 2026-10-15 | [solution](problems/1324-immutable-arrays-functional-updates-with-at) |
 | [One-Hot Encoding of Nominal Values](https://www.deep-ml.com/problems/34) | easy | 2026-10-16 | [solution](problems/0034-one-hot-encoding-of-nominal-values) |
 | [Random Shuffle of Dataset](https://www.deep-ml.com/problems/29) | easy | 2026-10-16 | [solution](problems/0029-random-shuffle-of-dataset) |
