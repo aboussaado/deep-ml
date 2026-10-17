@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Jax (10/10)
 
-**21** solved · 21 problems · 0 labs · 0 math
+**22** solved · 22 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -28,6 +28,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Sigmoid Activation Function Understanding](https://www.deep-ml.com/problems/22) | easy | 2026-10-15 | [solution](problems/0022-sigmoid-activation-function-understanding) |
 | [Single Neuron](https://www.deep-ml.com/problems/24) | easy | 2026-10-16 | [solution](problems/0024-single-neuron) |
 | [Softmax Activation Function Implementation ](https://www.deep-ml.com/problems/23) | easy | 2026-10-15 | [solution](problems/0023-softmax-activation-function-implementation) |
+| [Sort results with ORDER BY](https://www.deep-ml.com/problems/1104) | easy | 2026-10-17 | [solution](problems/1104-sort-results-with-order-by) |
 | [Your First Gradient with jax.grad](https://www.deep-ml.com/problems/1325) | easy | 2026-10-15 | [solution](problems/1325-your-first-gradient-with-jax-grad) |
 | [Fit a Line with value_and_grad](https://www.deep-ml.com/problems/1331) | medium | 2026-10-15 | [solution](problems/1331-fit-a-line-with-value-and-grad) |
 | [Multi-Parameter Gradients with argnums](https://www.deep-ml.com/problems/1326) | medium | 2026-10-15 | [solution](problems/1326-multi-parameter-gradients-with-argnums) |
