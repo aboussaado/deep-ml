@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Jax (10/10)
 
-**26** solved · 26 problems · 0 labs · 0 math
+**27** solved · 27 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -34,6 +34,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Sort results with ORDER BY](https://www.deep-ml.com/problems/1104) | easy | 2026-10-17 | [solution](problems/1104-sort-results-with-order-by) |
 | [Top N with LIMIT](https://www.deep-ml.com/problems/1106) | easy | 2026-10-17 | [solution](problems/1106-top-n-with-limit) |
 | [Your First Gradient with jax.grad](https://www.deep-ml.com/problems/1325) | easy | 2026-10-15 | [solution](problems/1325-your-first-gradient-with-jax-grad) |
+| [Your first JOIN](https://www.deep-ml.com/problems/1109) | easy | 2026-10-17 | [solution](problems/1109-your-first-join) |
 | [Fit a Line with value_and_grad](https://www.deep-ml.com/problems/1331) | medium | 2026-10-15 | [solution](problems/1331-fit-a-line-with-value-and-grad) |
 | [Multi-Parameter Gradients with argnums](https://www.deep-ml.com/problems/1326) | medium | 2026-10-15 | [solution](problems/1326-multi-parameter-gradients-with-argnums) |
 | [PyTrees: One SGD Step with tree_map](https://www.deep-ml.com/problems/1330) | medium | 2026-10-15 | [solution](problems/1330-pytrees-one-sgd-step-with-tree-map) |
