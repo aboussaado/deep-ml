@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Jax (10/10)
 
-**31** solved · 31 problems · 0 labs · 0 math
+**32** solved · 31 problems · 1 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -45,6 +45,12 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Random Numbers the JAX Way: PRNG Keys](https://www.deep-ml.com/problems/1329) | medium | 2026-10-15 | [solution](problems/1329-random-numbers-the-jax-way-prng-keys) |
 | [Vectorizing with jax.vmap](https://www.deep-ml.com/problems/1328) | medium | 2026-10-15 | [solution](problems/1328-vectorizing-with-jax-vmap) |
 | [Per-Sample Gradients with vmap(grad)](https://www.deep-ml.com/problems/1332) | hard | 2026-10-16 | [solution](problems/1332-per-sample-gradients-with-vmap-grad) |
+
+## Labs
+
+| | Difficulty | Solved | |
+| --- | --- | --- | --- |
+| [Fit Linear Regression with Autograd](https://www.deep-ml.com/labs/9ff596ea-672e-4101-9ce4-0856c55b62c9) | medium | 2026-10-18 | [solution](labs/9ff596ea-672e-4101-9ce4-0856c55b62c9-fit-linear-regression-with-autograd) |
 
 ---
 
