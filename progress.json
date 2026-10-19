@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T19:12:28.180Z",
+  "generated_at": "2026-10-19T22:22:16.715Z",
   "items": {
     "problem:10": {
       "kind": "problem",
@@ -702,6 +702,19 @@
       "last_pushed_at": "2026-10-19T19:12:27.566Z",
       "language": "python",
       "lines": 25
+    },
+    "problem:64": {
+      "kind": "problem",
+      "id": "64",
+      "title": "Implement Gini Impurity Calculation for a Set of Classes",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/64",
+      "path": "problems/0064-implement-gini-impurity-calculation-for-a-set-of-classes",
+      "first_solved_at": "2026-10-19T22:22:16.042Z",
+      "last_pushed_at": "2026-10-19T22:22:16.042Z",
+      "language": "python",
+      "lines": 14
     }
   }
 }
