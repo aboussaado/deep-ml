@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Jax (10/10)
 
-**59** solved · 58 problems · 1 labs · 0 math
+**60** solved · 59 problems · 1 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -22,6 +22,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Calculate Image Brightness](https://www.deep-ml.com/problems/70) | easy | 2026-10-20 | [solution](problems/0070-calculate-image-brightness) |
 | [Calculate Mean by Row or Column](https://www.deep-ml.com/problems/4) | easy | 2026-10-07 | [solution](problems/0004-calculate-mean-by-row-or-column) |
 | [Calculate R-squared for Regression Analysis](https://www.deep-ml.com/problems/69) | easy | 2026-10-20 | [solution](problems/0069-calculate-r-squared-for-regression-analysis) |
+| [Calculate Root Mean Square Error (RMSE)](https://www.deep-ml.com/problems/71) | easy | 2026-10-20 | [solution](problems/0071-calculate-root-mean-square-error-rmse) |
 | [Compiling Functions with jax.jit](https://www.deep-ml.com/problems/1327) | easy | 2026-10-15 | [solution](problems/1327-compiling-functions-with-jax-jit) |
 | [Convert Vector to Diagonal Matrix](https://www.deep-ml.com/problems/35) | easy | 2026-10-07 | [solution](problems/0035-convert-vector-to-diagonal-matrix) |
 | [Count rows per group](https://www.deep-ml.com/problems/1107) | easy | 2026-10-17 | [solution](problems/1107-count-rows-per-group) |
