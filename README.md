@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Jax (10/10)
 
-**58** solved · 57 problems · 1 labs · 0 math
+**59** solved · 58 problems · 1 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -19,6 +19,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Calculate 2x2 Matrix Inverse](https://www.deep-ml.com/problems/8) | easy | 2026-10-07 | [solution](problems/0008-calculate-2x2-matrix-inverse) |
 | [Calculate Accuracy Score](https://www.deep-ml.com/problems/36) | easy | 2026-10-18 | [solution](problems/0036-calculate-accuracy-score) |
 | [Calculate Covariance Matrix](https://www.deep-ml.com/problems/10) | easy | 2026-10-14 | [solution](problems/0010-calculate-covariance-matrix) |
+| [Calculate Image Brightness](https://www.deep-ml.com/problems/70) | easy | 2026-10-20 | [solution](problems/0070-calculate-image-brightness) |
 | [Calculate Mean by Row or Column](https://www.deep-ml.com/problems/4) | easy | 2026-10-07 | [solution](problems/0004-calculate-mean-by-row-or-column) |
 | [Calculate R-squared for Regression Analysis](https://www.deep-ml.com/problems/69) | easy | 2026-10-20 | [solution](problems/0069-calculate-r-squared-for-regression-analysis) |
 | [Compiling Functions with jax.jit](https://www.deep-ml.com/problems/1327) | easy | 2026-10-15 | [solution](problems/1327-compiling-functions-with-jax-jit) |
