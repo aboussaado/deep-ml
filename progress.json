@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21T08:54:46.343Z",
+  "generated_at": "2026-10-21T10:26:46.469Z",
   "items": {
     "problem:10": {
       "kind": "problem",
@@ -858,6 +858,19 @@
       "last_pushed_at": "2026-10-21T08:54:45.787Z",
       "language": "python",
       "lines": 8
+    },
+    "problem:48": {
+      "kind": "problem",
+      "id": "48",
+      "title": "Implement Reduced Row Echelon Form (RREF) Function",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/48",
+      "path": "problems/0048-implement-reduced-row-echelon-form-rref-function",
+      "first_solved_at": "2026-10-21T10:26:45.781Z",
+      "last_pushed_at": "2026-10-21T10:26:45.781Z",
+      "language": "python",
+      "lines": 21
     }
   }
 }
