@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Jax (10/10)
 
-**68** solved · 67 problems · 1 labs · 0 math
+**69** solved · 68 problems · 1 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -79,6 +79,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Multi-Parameter Gradients with argnums](https://www.deep-ml.com/problems/1326) | medium | 2026-10-15 | [solution](problems/1326-multi-parameter-gradients-with-argnums) |
 | [PyTrees: One SGD Step with tree_map](https://www.deep-ml.com/problems/1330) | medium | 2026-10-15 | [solution](problems/1330-pytrees-one-sgd-step-with-tree-map) |
 | [Random Numbers the JAX Way: PRNG Keys](https://www.deep-ml.com/problems/1329) | medium | 2026-10-15 | [solution](problems/1329-random-numbers-the-jax-way-prng-keys) |
+| [Solve Linear Equations using Jacobi Method](https://www.deep-ml.com/problems/11) | medium | 2026-10-21 | [solution](problems/0011-solve-linear-equations-using-jacobi-method) |
 | [Vectorizing with jax.vmap](https://www.deep-ml.com/problems/1328) | medium | 2026-10-15 | [solution](problems/1328-vectorizing-with-jax-vmap) |
 | [Per-Sample Gradients with vmap(grad)](https://www.deep-ml.com/problems/1332) | hard | 2026-10-16 | [solution](problems/1332-per-sample-gradients-with-vmap-grad) |
 
