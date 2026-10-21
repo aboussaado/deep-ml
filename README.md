@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Jax (10/10)
 
-**62** solved · 61 problems · 1 labs · 0 math
+**63** solved · 62 problems · 1 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -68,6 +68,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Transpose of a Matrix](https://www.deep-ml.com/problems/2) | easy | 2026-10-07 | [solution](problems/0002-transpose-of-a-matrix) |
 | [Your First Gradient with jax.grad](https://www.deep-ml.com/problems/1325) | easy | 2026-10-15 | [solution](problems/1325-your-first-gradient-with-jax-grad) |
 | [Your first JOIN](https://www.deep-ml.com/problems/1109) | easy | 2026-10-17 | [solution](problems/1109-your-first-join) |
+| [Find the column space of a matrix](https://www.deep-ml.com/problems/68) | medium | 2026-10-21 | [solution](problems/0068-find-the-column-space-of-a-matrix) |
 | [Fit a Line with value_and_grad](https://www.deep-ml.com/problems/1331) | medium | 2026-10-15 | [solution](problems/1331-fit-a-line-with-value-and-grad) |
 | [Gradient of a Weighted Sum of Squares](https://www.deep-ml.com/problems/1223) | medium | 2026-10-17 | [solution](problems/1223-gradient-of-a-weighted-sum-of-squares) |
 | [Multi-Parameter Gradients with argnums](https://www.deep-ml.com/problems/1326) | medium | 2026-10-15 | [solution](problems/1326-multi-parameter-gradients-with-argnums) |
