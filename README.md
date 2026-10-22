@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Jax (10/10)
 
-**70** solved · 69 problems · 1 labs · 0 math
+**71** solved · 70 problems · 1 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -69,6 +69,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Transpose of a Matrix](https://www.deep-ml.com/problems/2) | easy | 2026-10-07 | [solution](problems/0002-transpose-of-a-matrix) |
 | [Your First Gradient with jax.grad](https://www.deep-ml.com/problems/1325) | easy | 2026-10-15 | [solution](problems/1325-your-first-gradient-with-jax-grad) |
 | [Your first JOIN](https://www.deep-ml.com/problems/1109) | easy | 2026-10-17 | [solution](problems/1109-your-first-join) |
+| [2D Translation Matrix Implementation](https://www.deep-ml.com/problems/55) | medium | 2026-10-22 | [solution](problems/0055-2d-translation-matrix-implementation) |
 | [Calculate Eigenvalues of a Matrix](https://www.deep-ml.com/problems/6) | medium | 2026-10-21 | [solution](problems/0006-calculate-eigenvalues-of-a-matrix) |
 | [Find the column space of a matrix](https://www.deep-ml.com/problems/68) | medium | 2026-10-21 | [solution](problems/0068-find-the-column-space-of-a-matrix) |
 | [Fit a Line with value_and_grad](https://www.deep-ml.com/problems/1331) | medium | 2026-10-15 | [solution](problems/1331-fit-a-line-with-value-and-grad) |
