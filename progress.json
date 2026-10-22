@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T18:41:45.830Z",
+  "generated_at": "2026-10-22T19:01:23.253Z",
   "items": {
     "problem:10": {
       "kind": "problem",
@@ -923,6 +923,19 @@
       "last_pushed_at": "2026-10-22T18:41:45.282Z",
       "language": "python",
       "lines": 9
+    },
+    "problem:57": {
+      "kind": "problem",
+      "id": "57",
+      "title": "Gauss-Seidel Method for Solving Linear Systems",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/57",
+      "path": "problems/0057-gauss-seidel-method-for-solving-linear-systems",
+      "first_solved_at": "2026-10-22T19:01:22.666Z",
+      "last_pushed_at": "2026-10-22T19:01:22.666Z",
+      "language": "python",
+      "lines": 12
     }
   }
 }
