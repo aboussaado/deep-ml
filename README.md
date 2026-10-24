@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Jax (10/10)
 
-**82** solved · 79 problems · 1 labs · 2 math
+**83** solved · 79 problems · 1 labs · 3 math
 
 ![Coverage](./coverage.svg)
 
@@ -104,6 +104,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 | | Difficulty | Solved | |
 | --- | --- | --- | --- |
+| [Bayes' Theorem](https://www.deep-ml.com/math-problems/20) | medium | 2026-10-24 | [solution](math/0020-bayes-theorem) |
 | [Bayesian Methods](https://www.deep-ml.com/math-problems/28) | hard | 2026-10-24 | [solution](math/0028-bayesian-methods) |
 | [Diffusion as an SDE: Forward, Reverse and the Probability-Flow ODE](https://www.deep-ml.com/math-problems/249) | hard | 2026-10-24 | [solution](math/0249-diffusion-as-an-sde-forward-reverse-and-the-probability-flow-ode) |
 
