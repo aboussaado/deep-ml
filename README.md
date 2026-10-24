@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Jax (10/10)
 
-**80** solved · 79 problems · 1 labs · 0 math
+**81** solved · 79 problems · 1 labs · 1 math
 
 ![Coverage](./coverage.svg)
 
@@ -99,6 +99,12 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | | Difficulty | Solved | |
 | --- | --- | --- | --- |
 | [Fit Linear Regression with Autograd](https://www.deep-ml.com/labs/9ff596ea-672e-4101-9ce4-0856c55b62c9) | medium | 2026-10-18 | [solution](labs/9ff596ea-672e-4101-9ce4-0856c55b62c9-fit-linear-regression-with-autograd) |
+
+## Math
+
+| | Difficulty | Solved | |
+| --- | --- | --- | --- |
+| [Diffusion as an SDE: Forward, Reverse and the Probability-Flow ODE](https://www.deep-ml.com/math-problems/249) | hard | 2026-10-24 | [solution](math/0249-diffusion-as-an-sde-forward-reverse-and-the-probability-flow-ode) |
 
 ---
 

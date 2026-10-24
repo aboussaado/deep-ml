@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-24T13:42:42.351Z",
+  "generated_at": "2026-10-24T15:36:35.393Z",
   "items": {
     "problem:10": {
       "kind": "problem",
@@ -1040,6 +1040,17 @@
       "last_pushed_at": "2026-10-24T13:42:41.560Z",
       "language": "python",
       "lines": 15
+    },
+    "math:249": {
+      "kind": "math",
+      "id": "249",
+      "title": "Diffusion as an SDE: Forward, Reverse and the Probability-Flow ODE",
+      "difficulty": "hard",
+      "category": "Deep Learning Theory",
+      "url": "https://www.deep-ml.com/math-problems/249",
+      "path": "math/0249-diffusion-as-an-sde-forward-reverse-and-the-probability-flow-ode",
+      "first_solved_at": "2026-10-24T15:36:34.855Z",
+      "last_pushed_at": "2026-10-24T15:36:34.855Z"
     }
   }
 }
