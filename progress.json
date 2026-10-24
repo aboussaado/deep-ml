@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-24T15:36:35.393Z",
+  "generated_at": "2026-10-24T16:28:33.827Z",
   "items": {
     "problem:10": {
       "kind": "problem",
@@ -1051,6 +1051,17 @@
       "path": "math/0249-diffusion-as-an-sde-forward-reverse-and-the-probability-flow-ode",
       "first_solved_at": "2026-10-24T15:36:34.855Z",
       "last_pushed_at": "2026-10-24T15:36:34.855Z"
+    },
+    "math:28": {
+      "kind": "math",
+      "id": "28",
+      "title": "Bayesian Methods",
+      "difficulty": "hard",
+      "category": "Probability and Statistics for Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/28",
+      "path": "math/0028-bayesian-methods",
+      "first_solved_at": "2026-10-24T16:28:32.392Z",
+      "last_pushed_at": "2026-10-24T16:28:32.392Z"
     }
   }
 }
