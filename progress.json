@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-24T16:32:11.434Z",
+  "generated_at": "2026-10-24T19:35:56.246Z",
   "items": {
     "problem:10": {
       "kind": "problem",
@@ -1073,6 +1073,19 @@
       "path": "math/0020-bayes-theorem",
       "first_solved_at": "2026-10-24T16:32:10.047Z",
       "last_pushed_at": "2026-10-24T16:32:10.047Z"
+    },
+    "problem:12": {
+      "kind": "problem",
+      "id": "12",
+      "title": "Singular Value Decomposition (SVD) of 2x2 Matrix",
+      "difficulty": "hard",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/12",
+      "path": "problems/0012-singular-value-decomposition-svd-of-2x2-matrix",
+      "first_solved_at": "2026-10-24T19:35:55.553Z",
+      "last_pushed_at": "2026-10-24T19:35:55.553Z",
+      "language": "python",
+      "lines": 26
     }
   }
 }

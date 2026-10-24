@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Jax (10/10)
 
-**83** solved · 79 problems · 1 labs · 3 math
+**84** solved · 80 problems · 1 labs · 3 math
 
 ![Coverage](./coverage.svg)
 
@@ -93,6 +93,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Two-Layer MLP Forward Pass](https://www.deep-ml.com/problems/1225) | medium | 2026-10-23 | [solution](problems/1225-two-layer-mlp-forward-pass) |
 | [Vectorizing with jax.vmap](https://www.deep-ml.com/problems/1328) | medium | 2026-10-15 | [solution](problems/1328-vectorizing-with-jax-vmap) |
 | [Per-Sample Gradients with vmap(grad)](https://www.deep-ml.com/problems/1332) | hard | 2026-10-16 | [solution](problems/1332-per-sample-gradients-with-vmap-grad) |
+| [Singular Value Decomposition (SVD) of 2x2 Matrix](https://www.deep-ml.com/problems/12) | hard | 2026-10-24 | [solution](problems/0012-singular-value-decomposition-svd-of-2x2-matrix) |
 
 ## Labs
 
