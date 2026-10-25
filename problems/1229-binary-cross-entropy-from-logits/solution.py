@@ -7,5 +7,5 @@ def bce_with_logits(logits, targets):
     Returns:
         float: mean loss rounded to 4 decimal places.
     """
-    loss = (torch.clamp(logits, min=0) - logits * targets + torch.log1p(torch.exp(-torch.abs(logits))))
+    loss = torch.clamp(logits, min=0) - logits * targets + torch.log1p(torch.exp(-torch.abs(logits)))
     return round(torch.mean(loss).item(), 4)
