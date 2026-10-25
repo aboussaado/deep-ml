@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Jax (10/10)
 
-**89** solved · 85 problems · 1 labs · 3 math
+**90** solved · 86 problems · 1 labs · 3 math
 
 ![Coverage](./coverage.svg)
 
@@ -84,6 +84,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Fit a Line with value_and_grad](https://www.deep-ml.com/problems/1331) | medium | 2026-10-15 | [solution](problems/1331-fit-a-line-with-value-and-grad) |
 | [Gauss-Seidel Method for Solving Linear Systems](https://www.deep-ml.com/problems/57) | medium | 2026-10-22 | [solution](problems/0057-gauss-seidel-method-for-solving-linear-systems) |
 | [Gradient of a Weighted Sum of Squares](https://www.deep-ml.com/problems/1223) | medium | 2026-10-17 | [solution](problems/1223-gradient-of-a-weighted-sum-of-squares) |
+| [Implement Adam Optimization Algorithm](https://www.deep-ml.com/problems/49) | medium | 2026-10-25 | [solution](problems/0049-implement-adam-optimization-algorithm) |
 | [Implement Reduced Row Echelon Form (RREF) Function](https://www.deep-ml.com/problems/48) | medium | 2026-10-21 | [solution](problems/0048-implement-reduced-row-echelon-form-rref-function) |
 | [Matrix times Matrix ](https://www.deep-ml.com/problems/9) | medium | 2026-10-21 | [solution](problems/0009-matrix-times-matrix) |
 | [Matrix Transformation ](https://www.deep-ml.com/problems/7) | medium | 2026-10-21 | [solution](problems/0007-matrix-transformation) |
