@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-26T23:23:00.765Z",
+  "generated_at": "2026-10-28T11:35:29.001Z",
   "items": {
     "problem:10": {
       "kind": "problem",
@@ -1188,6 +1188,19 @@
       "path": "math/0104-training-error-test-error-and-the-bayes-rate",
       "first_solved_at": "2026-10-26T23:23:00.064Z",
       "last_pushed_at": "2026-10-26T23:23:00.064Z"
+    },
+    "problem:195": {
+      "kind": "problem",
+      "id": "195",
+      "title": "Matrix Determinant & Trace",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/195",
+      "path": "problems/0195-matrix-determinant-trace",
+      "first_solved_at": "2026-10-28T11:35:26.572Z",
+      "last_pushed_at": "2026-10-28T11:35:26.572Z",
+      "language": "python",
+      "lines": 13
     }
   }
 }
