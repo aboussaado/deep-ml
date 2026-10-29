@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Jax (10/10)
 
-**95** solved · 90 problems · 1 labs · 4 math
+**96** solved · 91 problems · 1 labs · 4 math
 
 ![Coverage](./coverage.svg)
 
@@ -81,6 +81,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Binary Cross-Entropy from Logits](https://www.deep-ml.com/problems/1229) | medium | 2026-10-25 | [solution](problems/1229-binary-cross-entropy-from-logits) |
 | [Binomial Distribution Probability](https://www.deep-ml.com/problems/79) | medium | 2026-10-22 | [solution](problems/0079-binomial-distribution-probability) |
 | [Calculate Eigenvalues of a Matrix](https://www.deep-ml.com/problems/6) | medium | 2026-10-21 | [solution](problems/0006-calculate-eigenvalues-of-a-matrix) |
+| [Calculate Performance Metrics for a Classification Model](https://www.deep-ml.com/problems/77) | medium | 2026-10-29 | [solution](problems/0077-calculate-performance-metrics-for-a-classification-model) |
 | [Find the column space of a matrix](https://www.deep-ml.com/problems/68) | medium | 2026-10-21 | [solution](problems/0068-find-the-column-space-of-a-matrix) |
 | [Fit a Line with value_and_grad](https://www.deep-ml.com/problems/1331) | medium | 2026-10-15 | [solution](problems/1331-fit-a-line-with-value-and-grad) |
 | [Gauss-Seidel Method for Solving Linear Systems](https://www.deep-ml.com/problems/57) | medium | 2026-10-22 | [solution](problems/0057-gauss-seidel-method-for-solving-linear-systems) |
