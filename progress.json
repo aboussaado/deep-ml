@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-29T22:00:15.876Z",
+  "generated_at": "2026-10-30T23:50:56.322Z",
   "items": {
     "problem:10": {
       "kind": "problem",
@@ -1240,6 +1240,19 @@
       "last_pushed_at": "2026-10-29T22:00:13.566Z",
       "language": "python",
       "lines": 19
+    },
+    "problem:121": {
+      "kind": "problem",
+      "id": "121",
+      "title": "Vector Element-wise Sum",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/121",
+      "path": "problems/0121-vector-element-wise-sum",
+      "first_solved_at": "2026-10-30T23:50:55.546Z",
+      "last_pushed_at": "2026-10-30T23:50:55.546Z",
+      "language": "python",
+      "lines": 3
     }
   }
 }
